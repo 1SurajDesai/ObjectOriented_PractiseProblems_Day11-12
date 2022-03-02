@@ -1,0 +1,16 @@
+{
+  "TypeofRice": [
+    {
+      "name": "Basumati",
+      "weight": "2kg",
+      "price": "120"
+    },
+    {
+      "name": "bullet",
+      "weight": "6kg",
+      "price": "180"
+    }
+  ]
+
+
+}
