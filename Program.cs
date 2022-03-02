@@ -17,10 +17,23 @@ namespace InventaroryDataManagmentDemo
                 Console.WriteLine(data.typeofRice[i].price);
                 Console.WriteLine();
             }
+            for (int i = 0; i < data.TypesOfPulses.Count; i++)
+            {
+                Console.WriteLine(data.TypesOfPulses[i].name);
+                Console.WriteLine(data.TypesOfPulses[i].weight);
+                Console.WriteLine(data.TypesOfPulses[i].price);
+                Console.WriteLine();
+            }
+            for (int i = 0; i < data.TypesOfWheats.Count; i++)
+            {
+                Console.WriteLine(data.TypesOfWheats[i].name);
+                Console.WriteLine(data.TypesOfWheats[i].weight);
+                Console.WriteLine(data.TypesOfWheats[i].price);
+                Console.WriteLine();
+            }
 
 
-            //Console.WriteLine(data.weight);
-            //Console.WriteLine(data.price);
+            
         }
 
     }

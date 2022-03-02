@@ -10,6 +10,35 @@
       "weight": "6kg",
       "price": "180"
     }
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "GreenGram",
+      "weight": "12kg",
+      "price": "180"
+    },
+    {
+      "name": "HoursGram",
+      "weight": "9kg",
+      "price": "200"
+    },
+    {
+      "name": "BlackGram",
+      "weight": "6kg",
+      "price": "290"
+    }
+  ],
+  "TypesOfWheats": [
+    {
+      "name": "Wheat1",
+      "weight": "18kg",
+      "price": "188"
+    },
+    {
+      "name": "Wheat2",
+      "weight": "12kg",
+      "price": "190"
+    }
   ]
 
 
